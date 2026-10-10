@@ -14,7 +14,7 @@ A simple, interactive personal portfolio website hosted using GitHub Pages.
 - Git & GitHub Pages
 
 ## 🔗 Live Demo
-Visit the live portfolio here: [https://srinidhibijja14.github.io/](https://srinidhibijja14.github.io/)
+Visit the live portfolio here:  [https://srinidhibijja14.github.io/automated-portfolio/]
 
 ---
 © 2026 Srinidhi. All Rights Reserved.
